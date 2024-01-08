@@ -2,50 +2,36 @@
 
   <panel>
     <number>1</number>
-    <image>https://github.com/jacapps-clients/pittsburg-state/blob/main/EspeciallyNow_2_1024x512-small.jpg?raw=true</image>
-    <url>https://sample.com/donate</url>
+    <image>https://raw.githubusercontent.com/jacapps-clients/pittsburg-state/main/20240108/AllGoodThings_640x200.jpg</image>
+    <url>https://krps.careasy.org/home</url>
     <redirect>n</redirect>
   </panel>
   
   <panel>
     <number>2</number>
-    <image>https://github.com/jacapps-clients/pittsburg-state/blob/main/GreenerPastures_1024x512%20_2_-small.jpg?raw=true</image>
-    <url>https://sample.com/news</url>
+    <image>https://raw.githubusercontent.com/jacapps-clients/pittsburg-state/main/20240108/ENV-1_640x200.jpg</image>
+    <url>https://krps.careasy.org/home</url>
     <redirect>n</redirect>
   </panel>
   
   <panel>
     <number>3</number>
-    <image>https://github.com/jacapps-clients/pittsburg-state/blob/main/LovesInAllSizes_1200x628-small.png?raw=true</image>
-    <url>https://sample.com/events</url>
+    <image>https://raw.githubusercontent.com/jacapps-clients/pittsburg-state/main/20240108/GreenerPastures_640X200.jpg</image>
+    <url>https://krps.careasy.org/home</url>
     <redirect>n</redirect>
   </panel>
   
   <panel>
-    <number>3</number>
-    <image>https://sample.com/image3.jpg</image>
-    <url>https://sample.com/events</url>
+    <number>4</number>
+    <image>https://raw.githubusercontent.com/jacapps-clients/pittsburg-state/main/20240108/Help%20make%20a%20difference%20to%20thousands%20of%20animals_640x200.jpg</image>
+    <url>https://krps.careasy.org/home</url>
     <redirect>n</redirect>
   </panel>
   
   <panel>
-    <number>3</number>
-    <image>https://sample.com/image3.jpg</image>
-    <url>https://sample.com/events</url>
-    <redirect>n</redirect>
-  </panel>
-  
-  <panel>
-    <number>3</number>
-    <image>https://sample.com/image3.jpg</image>
-    <url>https://sample.com/events</url>
-    <redirect>n</redirect>
-  </panel>
-  
-  <panel>
-    <number>3</number>
-    <image>https://sample.com/image3.jpg</image>
-    <url>https://sample.com/events</url>
+    <number>5</number>
+    <image>https://raw.githubusercontent.com/jacapps-clients/pittsburg-state/main/20240108/We-accept-the-stranger-things_640x200.jpg</image>
+    <url>https://krps.careasy.org/home</url>
     <redirect>n</redirect>
   </panel>
 
